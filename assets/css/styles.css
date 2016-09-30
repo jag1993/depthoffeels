@@ -13,3 +13,7 @@
     background:no-repeat;
     background-size:cover;
   }
+  
+  video::-webkit-media-controls {
+    display:none !important;
+}
